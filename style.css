@@ -2,6 +2,11 @@
   margin: 0;
   padding: 0;
 }
+.container{
+  height: 500px;
+  width: 1000px;
+  background: #6a0eff;
+}
 a {
   margin-top: 50px;
   margin: 20px 5px;
